@@ -1,0 +1,88 @@
+.wrapper{
+    position: relative;
+    width: 420px;
+    height: 400px;
+    border-radius: 15px;
+    color: #fc1270;
+      align-items: center;
+    border: 2px solid #000;  
+}
+
+ .wrapper .form-box{
+    width:100%;
+    padding:40px;
+ }
+  
+  .wrapper .form-box.student{
+    position:  absolute;
+     align-items: center;
+    border: 2px solid #000;
+    margin: 3px;
+
+  }
+ 
+ 
+ .wrapper .form-box.details{
+    position:  absolute;
+    translate: 410px;
+    align-items: center;
+    border: 2px solid #000;
+  }
+ 
+ .wrapper .form-box.course {
+    position: absolute;
+    top: 400px;  
+    left: 50%;  
+    translate:-625px;  
+    align-items: center;
+    border: 2px solid #000;
+}
+
+ .wrapper .form-box.class{
+    border: 2px solid #000;
+    margin-top: 0px; 
+ }
+form h1{
+    font-size: 36px;
+    text-align: center;
+
+}
+form .input-box{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin: 30px 0;
+     
+}
+.input-box input{
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid rgba(255, 255,255,.1);
+    border-radius: 40px;
+    font-size: 16px;
+    color: #191818;
+    padding: 20px 45px 20px;
+}
+.input-box input::placeholder{
+    color: #0b0a0b;
+}
+form button{
+    width: 100%;
+    height: 45px;
+    background: #f61769;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow:0 0 10px rgba(0,0,0, .1) ;
+    cursor: pointer;
+     font-weight: 700;
+}
+form.register-link{
+    font-size: 14.5px;
+    text-align: center;
+    margin: 20px 0 15px;
+}
+ 
