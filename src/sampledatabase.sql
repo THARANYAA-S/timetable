@@ -59,8 +59,7 @@ SET classroom_name = "SF001"
 WHERE classroom_id=2;   
 
 
-DELETE FROM Classroom 
-where  classroom_id=302;
+ 
 CREATE TABLE Timing (
     timing_id INT PRIMARY KEY AUTO_INCREMENT,
     start_time TIME,
