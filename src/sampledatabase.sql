@@ -1,4 +1,4 @@
-create database generation;
+create database  timetablegeneration;
  
 CREATE TABLE Department (
     department_name VARCHAR(100) PRIMARY KEY
