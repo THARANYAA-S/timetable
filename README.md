@@ -1,6 +1,6 @@
 # timetable                                                                             
 
-![image](https://github.com/THARANYAA-S/timetable/assets/142074182/6f951e6c-bbc1-4df8-96bc-0889662ea2d9)
+![images34](https://github.com/THARANYAA-S/timetable/assets/142074182/cc40bfe3-0d64-4a76-addc-11717bb77ee7)
 
 
 
