@@ -1,4 +1,7 @@
-# timetable                                                                             
+# Timetable generation for classes     
+
+"Efficient scheduling fosters better learning."
+
 
 ![images34(1)(1)](https://github.com/THARANYAA-S/timetable/assets/142074182/ee0c4442-3a6c-4db0-b392-7a5089285326)
 
